@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "wK9kCGvQKiEKDQx1+4xqc6sK9XD6j/psJt+t0CL85nu6/zypbLQi2b3zZuWP4/AtHwV2iSXM7syxwGoxLTMMrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hugo.machorro\\Desktop\\Coursera_Microservices_and_Deployment_by_using_ASP.NET\\Week-1\\OcelotAPIGatewayProject\\OceletGateway\\OceletGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugo.machorro\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\hugo.machorro\\.nuget\\packages\\ipaddressrange\\6.0.0\\ipaddressrange.6.0.0.nupkg.sha512",
+    "C:\\Users\\hugo.machorro\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.5\\microsoft.aspnetcore.jsonpatch.7.0.5.nupkg.sha512",
+    "C:\\Users\\hugo.machorro\\.nuget\\packages\\microsoft.aspnetcore.middlewareanalysis\\7.0.5\\microsoft.aspnetcore.middlewareanalysis.7.0.5.nupkg.sha512",
+    "C:\\Users\\hugo.machorro\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.5\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.5.nupkg.sha512",
+    "C:\\Users\\hugo.machorro\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\hugo.machorro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\hugo.machorro\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\3.1.32\\microsoft.extensions.diagnosticadapter.3.1.32.nupkg.sha512",
+    "C:\\Users\\hugo.machorro\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\hugo.machorro\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\hugo.machorro\\.nuget\\packages\\ocelot\\20.0.0\\ocelot.20.0.0.nupkg.sha512",
+    "C:\\Users\\hugo.machorro\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
