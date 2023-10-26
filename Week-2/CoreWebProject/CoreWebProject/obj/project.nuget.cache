@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MgCE2Ymjdcm5sQYokfEquhqaI/rhVSVRUQ/CDuPr7sHqsKUP3JGgo+Yet3/bpOpoadv78+PUIFQ+hVlTXMzSzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hugo.machorro\\Desktop\\Coursera_Microservices_and_Deployment_by_using_ASP.NET\\Week-2\\CoreWebProject\\CoreWebProject\\CoreWebProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugo.machorro\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
